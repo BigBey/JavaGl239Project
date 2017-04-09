@@ -2,9 +2,7 @@ package problem;
 
 import java.util.Scanner;
 
-import static java.lang.System.exit;
-import static org.lwjgl.opengl.ARBTessellationShader.GL_QUADS;
-import static org.lwjgl.opengl.GL11.*;
+
 
 /**
  * Created by bejsi.18 on 15.02.2017.
